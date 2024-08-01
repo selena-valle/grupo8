@@ -1,0 +1,6 @@
+./data/demo.png available
+./data/demo1.jpg hello world!
+./data/demo2.jpg dualistic
+./data/demo3.jpg shakeshack
+./data/demo4.jpg claimed
+./data/demo5.jpg makes

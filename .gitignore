@@ -1,0 +1,8 @@
+.DS_Store
+*.pth
+*.pyc
+*.pyo
+*.log
+*.tmp
+# Ignorar entornos virtuales
+crnn_env/
